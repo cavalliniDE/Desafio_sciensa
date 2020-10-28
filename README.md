@@ -1,0 +1,2 @@
+A escolha da ferramenta StreamSets foi tomada devido a sua facilidade de conexão com diversas fontes de dados, sua velocidade de transformação de dados e carga. Além do  schedule na própria ferramenta , garantem a periodicidade da ingestão pré-definida pelo desenvolvedor. 
+Levando os dados ao data lake , on-premise ou nuvem.
